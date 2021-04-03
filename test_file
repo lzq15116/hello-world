@@ -1,0 +1,7 @@
+package com.lzq.service;
+
+public class test{
+  public static void main(args[]) {
+     System.out.println("init....")
+  }
+}
